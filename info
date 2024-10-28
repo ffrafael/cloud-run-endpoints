@@ -1,0 +1,6 @@
+gcloud run deploy ficha-whatsapp --source . --platform managed --region us-central1 --allow-unauthenticated
+
+Endpoints:
+https://ficha-whatsapp-1045187835055.us-central1.run.app/buscar-protocolo/252525
+https://ficha-whatsapp-1045187835055.us-central1.run.app/buscar-conta/025Ia0000004Bda001
+https://ficha-whatsapp-1045187835055.us-central1.run.app/buscar-processo-seletivo
