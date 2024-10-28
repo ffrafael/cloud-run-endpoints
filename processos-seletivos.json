@@ -1,0 +1,61 @@
+{
+    "intakesAbertos": [
+        {
+            "curso": "Medicina",
+            "uf": "SP",
+            "campus": "Bragança Paulista",
+            "formasIngresso": [
+                "ENEM",
+                "Prova Online"
+            ],
+            "turnos": [
+                "Manhã"
+            ]
+        },
+        {
+            "curso": "Matemática",
+            "uf": "SP",
+            "campus": "Bragança Paulista",
+            "formasIngresso": [
+                "ENEM",
+                "Prova Online",
+                "Transf. Externa",
+                "Portador de Diploma"
+            ],
+            "turnos": [
+                "Manhã",
+                "Noite"
+            ]
+        },
+        {
+            "curso": "Fisioterapia",
+            "uf": "PA",
+            "campus": "Abaetuba",
+            "formasIngresso": [
+                "ENEM",
+                "Prova Online",
+                "Transf. Externa",
+                "Portador de Diploma"
+            ],
+            "turnos": [
+                "Manhã",
+                "Noite"
+            ]
+        },
+        {
+            "curso": "Oceanografia",
+            "uf": "RO",
+            "campus": "Porto Velho",
+            "formasIngresso": [
+                "ENEM",
+                "Prova Online",
+                "Transf. Externa",
+                "Portador de Diploma"
+            ],
+            "turnos": [
+                "Manhã",
+                "Noite"
+            ]
+        }
+    ]
+}

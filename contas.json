@@ -1,0 +1,87 @@
+{
+    "025Ia0000004Bda001": {
+        "accountId": "025Ia0000004Bda001",
+        "inscricoesFinalizadas": [
+            {
+                "numInscricao": "00034",
+                "campus": "Porto Velho",
+                "formaIngresso": "ENEM",
+                "curso": "Ciência da Computação",
+                "statusInscricao": "Finalizada"
+            },
+            {
+                "numInscricao": "00095",
+                "campus": "Salvador",
+                "formaIngresso": "ENEM",
+                "curso": "Ciência da Computação",
+                "statusInscricao": "Finalizada"
+            }
+        ]
+    },
+    "025Ia0000004Bda002": {
+        "accountId": "025Ia0000004Bda002",
+        "inscricoesFinalizadas": [
+            {
+                "numInscricao": "00035",
+                "campus": "Porto Velho",
+                "formaIngresso": "ENEM",
+                "curso": "Administração",
+                "statusInscricao": "Finalizada"
+            }
+        ]
+    },
+    "025Ia0000004Bda003": {
+        "accountId": "025Ia0000004Bda003",
+        "inscricoesFinalizadas": [
+            {
+                "numInscricao": "00051",
+                "campus": "Porto Velho",
+                "formaIngresso": "ENEM",
+                "curso": "Medicina",
+                "statusInscricao": "Finalizada"
+            },
+            {
+                "numInscricao": "00055",
+                "campus": "Salvador",
+                "formaIngresso": "ENEM",
+                "curso": "Medicina",
+                "statusInscricao": "Finalizada"
+            },
+            {
+                "numInscricao": "00071",
+                "campus": "Bragança Paulista",
+                "formaIngresso": "ENEM",
+                "curso": "Medicina",
+                "statusInscricao": "Finalizada"
+            },
+            {
+                "numInscricao": "00077",
+                "campus": "Palhoça",
+                "formaIngresso": "ENEM",
+                "curso": "Medicina",
+                "statusInscricao": "Finalizada"
+            },
+            {
+                "numInscricao": "00083",
+                "campus": "Itacoatiara",
+                "formaIngresso": "ENEM",
+                "curso": "Medicina",
+                "statusInscricao": "Finalizada"
+            },
+            {
+                "numInscricao": "00085",
+                "campus": "Manacapuru",
+                "formaIngresso": "ENEM",
+                "curso": "Medicina",
+                "statusInscricao": "Finalizada"
+            },
+            {
+                "numInscricao": "00090",
+                "campus": "Garanhus",
+                "formaIngresso": "ENEM",
+                "curso": "Medicina",
+                "statusInscricao": "Finalizada"
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "252525": {
+        "campus": "Porto Velho",
+        "modalidade": "Presencial",
+        "formasIngresso": [
+            "ENEM",
+            "Prova Virtual",
+            "Transferência Externa",
+            "Portador de Diploma"
+        ],
+        "turnos": [
+            "manhã",
+            "tarde",
+            "noite"
+        ],
+        "utm_source": "Landing Page",
+        "utm_medium": "email",
+        "utm_campaign": "Google",
+        "utm_term": "Graduação",
+        "utm_content": "link_inscrição",
+        "contadoDireto": "São Lucas - Porto Velho",
+        "ownerIndicado": "012Ia0000004Bda001",
+        "protocol": "252525"
+    },
+    "262626": {
+        "campus": "Bragança Paulista",
+        "modalidade": "Presencial",
+        "formasIngresso": [
+            "ENEM",
+            "Prova Virtual"
+        ],
+        "turnos": [
+            "manhã",
+            "noite"
+        ],
+        "utm_source": "(direct)",
+        "utm_medium": "site",
+        "utm_campaign": "Google",
+        "utm_term": "Graduação",
+        "utm_content": "link_inscrição",
+        "contatoDireto": "São Lucas - Porto Velho",
+        "protocoloWCI": "262626"
+    },
+    "272727": {
+        "campus": "Porto Velho",
+        "modalidade": "Presencial",
+        "formasIngresso": [
+            "ENEM",
+            "Prova Virtual",
+            "Transferência Externa",
+            "Portador de Diploma"
+        ],
+        "turnos": [
+            "manhã",
+            "tarde",
+            "noite"
+        ],
+        "utm_source": "Ficha de Inscrição",
+        "utm_medium": "teste 2",
+        "utm_campaign": "Meta",
+        "utm_term": "Graduação",
+        "utm_content": "link_inscrição",
+        "contatoDireto": "São Lucas - Porto Velho Medicina",
+        "protocoloWCI": "272727"
+    }
+}
